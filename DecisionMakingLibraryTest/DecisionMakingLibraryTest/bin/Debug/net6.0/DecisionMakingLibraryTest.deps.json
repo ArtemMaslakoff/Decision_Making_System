@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DecisionMakingLibraryTest/1.0.0": {
+        "dependencies": {
+          "DecisionMakingLibrary": "1.0.0"
+        },
+        "runtime": {
+          "DecisionMakingLibraryTest.dll": {}
+        }
+      },
+      "DecisionMakingLibrary/1.0.0": {
+        "runtime": {
+          "DecisionMakingLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DecisionMakingLibraryTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DecisionMakingLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

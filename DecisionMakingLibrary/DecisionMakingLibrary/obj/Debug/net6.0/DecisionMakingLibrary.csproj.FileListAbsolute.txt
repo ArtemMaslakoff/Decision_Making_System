@@ -1,0 +1,24 @@
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\bin\Debug\net6.0\DecisionMakingLibrary.deps.json
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\bin\Debug\net6.0\DecisionMakingLibrary.dll
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\bin\Debug\net6.0\DecisionMakingLibrary.pdb
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.csproj.AssemblyReference.cache
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.AssemblyInfoInputs.cache
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.AssemblyInfo.cs
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.dll
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\refint\DecisionMakingLibrary.dll
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.pdb
+E:\Visual Studio\C#\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\ref\DecisionMakingLibrary.dll
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\bin\Debug\net6.0\DecisionMakingLibrary.deps.json
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\bin\Debug\net6.0\DecisionMakingLibrary.dll
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\bin\Debug\net6.0\DecisionMakingLibrary.pdb
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.csproj.AssemblyReference.cache
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.AssemblyInfoInputs.cache
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.AssemblyInfo.cs
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.csproj.CoreCompileInputs.cache
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.dll
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\refint\DecisionMakingLibrary.dll
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\DecisionMakingLibrary.pdb
+E:\GitHub\Decision_Making_System\DecisionMakingLibrary\DecisionMakingLibrary\obj\Debug\net6.0\ref\DecisionMakingLibrary.dll

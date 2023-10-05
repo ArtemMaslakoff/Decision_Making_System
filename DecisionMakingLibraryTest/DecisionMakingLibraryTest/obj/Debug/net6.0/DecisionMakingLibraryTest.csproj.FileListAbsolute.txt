@@ -1,0 +1,36 @@
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibraryTest.exe
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibraryTest.deps.json
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibraryTest.runtimeconfig.json
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibraryTest.dll
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibraryTest.pdb
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibrary.dll
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibrary.pdb
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.csproj.AssemblyReference.cache
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.AssemblyInfoInputs.cache
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.AssemblyInfo.cs
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.csproj.CoreCompileInputs.cache
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.csproj.CopyComplete
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.dll
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\refint\DecisionMakingLibraryTest.dll
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.pdb
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.genruntimeconfig.cache
+E:\Visual Studio\C#\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\ref\DecisionMakingLibraryTest.dll
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibraryTest.exe
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibraryTest.deps.json
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibraryTest.runtimeconfig.json
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibraryTest.dll
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibraryTest.pdb
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibrary.dll
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\bin\Debug\net6.0\DecisionMakingLibrary.pdb
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.csproj.AssemblyReference.cache
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.AssemblyInfoInputs.cache
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.AssemblyInfo.cs
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.csproj.CoreCompileInputs.cache
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.csproj.CopyComplete
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.dll
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\refint\DecisionMakingLibraryTest.dll
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.pdb
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\DecisionMakingLibraryTest.genruntimeconfig.cache
+E:\GitHub\Decision_Making_System\DecisionMakingLibraryTest\DecisionMakingLibraryTest\obj\Debug\net6.0\ref\DecisionMakingLibraryTest.dll
