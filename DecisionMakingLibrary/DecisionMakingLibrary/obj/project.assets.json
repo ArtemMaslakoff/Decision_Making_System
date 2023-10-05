@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\masla\\Desktop\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj",
+      "projectUniqueName": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj",
       "projectName": "DecisionMakingLibrary",
-      "projectPath": "C:\\Users\\masla\\Desktop\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj",
+      "projectPath": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj",
       "packagesPath": "C:\\Users\\masla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\masla\\Desktop\\DecisionMakingLibrary\\DecisionMakingLibrary\\obj\\",
+      "outputPath": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

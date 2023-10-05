@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ATvRun0EEgn3YRHKJP/QFq0TX2uNjp/kpVwMF6bdnSLNwspR4PKmTWtG+qRHKI4PR1ztlKCruRQIsUB5VO9WGw==",
+  "dgSpecHash": "vIHYxnIgt4UC4TfL4cXAJyymQwnQOpd0l7emirRpKibdGMwDn6VtdyJEVSOHMqUaEUQP6t2kdA1Rlmp10K/bCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\masla\\Desktop\\DecisionMakingLibraryTest\\DecisionMakingLibraryUnitTests\\DecisionMakingLibraryUnitTests.csproj",
+  "projectFilePath": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibraryTest\\DecisionMakingLibraryUnitTests\\DecisionMakingLibraryUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\masla\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\masla\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
