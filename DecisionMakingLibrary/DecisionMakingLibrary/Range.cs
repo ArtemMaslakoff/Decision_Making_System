@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Dynamic;
 using System.Linq;
+using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -27,6 +28,15 @@ namespace DecisionMakingLibrary
         public virtual object GetMinimum() { return new object(); }
         public virtual object GetMaximum() { return new object(); }
         public virtual bool IsInRange(object obj) { return false; }
+        public override string ToString()
+        {
+            string supportString = "";
+            for (int i = 0; i < name.Length; i++)
+            {
+                supportString += "-";
+            }
+            return "---" + name + "---\n" + notion.ToString() + "\nMaximum:\n" + GetMaximum() + "\nMinimum:\n" + GetMinimum() + "\n---" + supportString + "---";
+        }
     }
     public class DiscreteRange : Range
     {

@@ -15,6 +15,10 @@
         {
             return new Notion((string)Name.Clone());
         }
+        public override string ToString()
+        {
+            return "Notion Name: " + Name;
+        }
         public static bool operator == (Notion left, Notion right)
         {
             return left.Name == right.Name;

@@ -15,12 +15,14 @@ namespace DecisionMakingLibrary
             Notion = notion;
             Meaning = meaning;
         }
-
         public object Clone()
         {
             return new Value<T>((Notion)Notion.Clone(), Meaning);
         }
-
+        public override string ToString()
+        {
+             return "---Value---\n" + Notion.ToString() + "\n" + "Value Meaning: " + Meaning.ToString() + "\n-----------";
+        }
         public override bool Equals(object? obj)
         {
             if (obj == null)

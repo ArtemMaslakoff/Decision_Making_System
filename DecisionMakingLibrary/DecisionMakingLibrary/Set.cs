@@ -160,6 +160,17 @@ namespace DecisionMakingLibrary
             result = subResult1 + subResult2;
             return result;
         }
+        public override string ToString()
+        {
+            string result = "---Set---\n";
+            result += Notion.ToString() + "\n---------\n";
+            for (int i = 0; i < Items.Count; i++)
+            {
+                result += "№" + i.ToString() + " Item: " + Items[i].ToString() + "\n";
+            }
+            result += "---------";
+            return result;
+        }
         public static Set<T> operator +(Set<T> leftSet, Set<T> rightSet)
         {
             if (leftSet.GetNotion() != rightSet.GetNotion())

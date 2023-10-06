@@ -33,7 +33,14 @@ namespace DecisionMakingLibrary
         }
         public P GetFunctionResult(T input)
         {
-            return function(input);
+            try
+            {
+                return function(input);
+            }
+            catch
+            {
+                throw new Exception("Exception");
+            }
         }
     } 
     public class InstanceRange<T, K> : CharacteristicRange<K>
