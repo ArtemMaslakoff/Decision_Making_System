@@ -1,5 +1,4 @@
-﻿
-using DecisionMakingLibrary;
+﻿using DecisionMakingLibrary.Core;
 
 namespace DecisionMakingLibraryUnitTests
 {

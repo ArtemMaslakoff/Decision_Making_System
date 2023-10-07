@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Schema;
 
-namespace DecisionMakingLibrary
+namespace DecisionMakingLibrary.Core
 {
     public class Set<T>
     {

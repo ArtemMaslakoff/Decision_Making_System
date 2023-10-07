@@ -1,4 +1,3 @@
-﻿using DecisionMakingLibrary;
-using Range = DecisionMakingLibrary.Range;
+﻿using Range = DecisionMakingLibrary.Core.Range;
 
 Console.WriteLine("start");

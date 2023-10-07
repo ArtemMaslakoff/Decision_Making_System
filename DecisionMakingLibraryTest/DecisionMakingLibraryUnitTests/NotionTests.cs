@@ -1,4 +1,4 @@
-using DecisionMakingLibrary;
+using DecisionMakingLibrary.Core;
 using System.Security.Cryptography.X509Certificates;
 
 namespace DecisionMakingLibraryUnitTests

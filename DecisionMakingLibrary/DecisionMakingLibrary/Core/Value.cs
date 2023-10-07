@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DecisionMakingLibrary
+namespace DecisionMakingLibrary.Core
 {
     public class Value<T> : ICloneable
     {
@@ -21,7 +21,7 @@ namespace DecisionMakingLibrary
         }
         public override string ToString()
         {
-             return "---Value---\n" + Notion.ToString() + "\n" + "Value Meaning: " + Meaning.ToString() + "\n-----------";
+            return "---Value---\n" + Notion.ToString() + "\n" + "Value Meaning: " + Meaning.ToString() + "\n-----------";
         }
         public override bool Equals(object? obj)
         {
@@ -31,7 +31,7 @@ namespace DecisionMakingLibrary
             }
             try
             {
-                if (this.Notion == ((Value<T>)obj).Notion && Equals(this.Meaning, ((Value<T>)obj).Meaning))
+                if (Notion == ((Value<T>)obj).Notion && Equals(Meaning, ((Value<T>)obj).Meaning))
                 {
                     return true;
                 }

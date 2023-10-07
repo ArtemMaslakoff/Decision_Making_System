@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DecisionMakingLibrary
+namespace DecisionMakingLibrary.Core
 {
     public class CharacteristicRange<T>
     {
@@ -42,12 +42,12 @@ namespace DecisionMakingLibrary
                 throw new Exception("Exception");
             }
         }
-    } 
+    }
     public class InstanceRange<T, K> : CharacteristicRange<K>
-    { 
+    {
         public InstanceRange(Range range, Set<K> characteristics) : base(range, characteristics)
         {
 
         }
-    } 
+    }
 }

@@ -1,4 +1,4 @@
-﻿namespace DecisionMakingLibrary
+﻿namespace DecisionMakingLibrary.Core
 {
     public class Notion : ICloneable
     {
@@ -19,7 +19,7 @@
         {
             return "Notion Name: " + Name;
         }
-        public static bool operator == (Notion left, Notion right)
+        public static bool operator ==(Notion left, Notion right)
         {
             return left.Name == right.Name;
         }
