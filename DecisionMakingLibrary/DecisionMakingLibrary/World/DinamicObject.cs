@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace DecisionMakingLibrary.World
 {
-    public class Object 
+    public class DinamicObject : Object
     {
-
     }
 }
