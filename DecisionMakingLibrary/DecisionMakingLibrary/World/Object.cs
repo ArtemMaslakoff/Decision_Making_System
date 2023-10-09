@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DecisionMakingLibrary.Core;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,6 +9,8 @@ namespace DecisionMakingLibrary.World
 {
     public class Object 
     {
+        protected string Name { get; }
+        protected List<Value<object>> parameters { get; }
 
     }
 }

@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace DecisionMakingLibrary.World
 {
-    public class World
+    public class ParameterChange
     {
-        private List<WorldRule> WorldRules { get; }
     }
 }

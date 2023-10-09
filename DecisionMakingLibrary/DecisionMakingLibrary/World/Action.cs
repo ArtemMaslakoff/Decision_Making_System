@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace DecisionMakingLibrary.World
 {
-    public class World
+    public class Action<A, B, C>
     {
-        private List<WorldRule> WorldRules { get; }
+        Func<A, B, C> function;
     }
 }

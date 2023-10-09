@@ -8,5 +8,6 @@ namespace DecisionMakingLibrary.World
 {
     public class DinamicObject : Object
     {
+
     }
 }
