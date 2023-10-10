@@ -8,6 +8,6 @@ namespace DecisionMakingLibrary.World
 {
     public class World
     {
-        private List<WorldRule> WorldRules { get; }
+        private List<WorldRule> WorldRules { get; } 
     }
 }

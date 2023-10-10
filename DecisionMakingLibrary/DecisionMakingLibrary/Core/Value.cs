@@ -6,22 +6,22 @@ using System.Threading.Tasks;
 
 namespace DecisionMakingLibrary.Core
 {
-    public class Value<T> : ICloneable
+    public class Value<T> : ICloneable, IValue
     {
-        public Notion Notion { get; }
-        public T Meaning { get; set; }
+        private Notion notion;
+        private T meaning;
         public Value(Notion notion, T meaning)
         {
-            Notion = notion;
-            Meaning = meaning;
+            this.notion = notion;
+            this.meaning = meaning;
         }
         public object Clone()
         {
-            return new Value<T>((Notion)Notion.Clone(), Meaning);
+            return new Value<T>((Notion)notion.Clone(), meaning);
         }
         public override string ToString()
         {
-            return "---Value---\n" + Notion.ToString() + "\n" + "Value Meaning: " + Meaning.ToString() + "\n-----------";
+            return "---Value---\n" + notion.ToString() + "\n" + "Value Meaning: " + meaning.ToString() + "\n-----------";
         }
         public override bool Equals(object? obj)
         {
@@ -31,7 +31,7 @@ namespace DecisionMakingLibrary.Core
             }
             try
             {
-                if (Notion == ((Value<T>)obj).Notion && Equals(Meaning, ((Value<T>)obj).Meaning))
+                if (notion == ((Value<T>)obj).notion && Equals(meaning, ((Value<T>)obj).meaning))
                 {
                     return true;
                 }
@@ -45,5 +45,20 @@ namespace DecisionMakingLibrary.Core
                 throw new NotImplementedException();
             }
         }
+
+        public Notion GetNotion()
+        {
+            return notion;
+        }
+
+        public object GetMeaning()
+        {
+            return meaning;
+        }
+    }
+    public interface IValue
+    {
+        public Notion GetNotion();
+        public object GetMeaning();
     }
 }

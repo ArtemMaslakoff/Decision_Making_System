@@ -73,7 +73,7 @@ namespace DecisionMakingLibrary.Core
             {
                 throw new ArgumentException();
             }
-            return (int)meaning >= MinimumValue.Meaning && (int)meaning <= MaximumValue.Meaning;
+            return (int)meaning >= (int)MinimumValue.GetMeaning() && (int)meaning <= (int)MaximumValue.GetMeaning();
         }
     }
     public class ContinuousRange : Range
@@ -111,7 +111,7 @@ namespace DecisionMakingLibrary.Core
             {
                 throw new ArgumentException();
             }
-            return (double)meaning >= MinimumValue.Meaning && (double)meaning <= MaximumValue.Meaning;
+            return (double)meaning >= (double)MinimumValue.GetMeaning() && (double)meaning <= (double)MaximumValue.GetMeaning();
         }
     }
 }

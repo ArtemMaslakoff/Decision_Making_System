@@ -28,8 +28,8 @@ namespace DecisionMakingLibraryUnitTests
 
             Assert.AreEqual(name, range.GetName());
             Assert.AreEqual(notion, range.GetNotion());
-            Assert.AreEqual(minimum, range.MinimumValue.Meaning);
-            Assert.AreEqual(maximum, range.MaximumValue.Meaning);
+            Assert.AreEqual(minimum, range.MinimumValue.GetMeaning());
+            Assert.AreEqual(maximum, range.MaximumValue.GetMeaning());
         }
         [TestMethod]
         public void Test_ContinuousRangeConstructor_WithData_WithError_MinMax()
@@ -42,20 +42,20 @@ namespace DecisionMakingLibraryUnitTests
 
             Assert.AreEqual(name, range.GetName());
             Assert.AreEqual(notion, range.GetNotion());
-            Assert.AreEqual(minimum, range.MinimumValue.Meaning);
-            Assert.AreEqual(minimum, range.MaximumValue.Meaning);
+            Assert.AreEqual(minimum, range.MinimumValue.GetMeaning());
+            Assert.AreEqual(minimum, range.MaximumValue.GetMeaning());
         }
         [TestMethod]
         public void Test_ContinuousRange_GetMinimum()
         {
-            Assert.AreEqual(notion, testRange.GetMinimum().Notion);
-            Assert.AreEqual(minimum, testRange.GetMinimum().Meaning);
+            Assert.AreEqual(notion, testRange.GetMinimum().GetNotion());
+            Assert.AreEqual(minimum, testRange.GetMinimum().GetMeaning());
         }
         [TestMethod]
         public void Test_ContinuousRange_GetMaximum()
         {
-            Assert.AreEqual(notion, testRange.GetMaximum().Notion);
-            Assert.AreEqual(maximum, testRange.GetMaximum().Meaning);
+            Assert.AreEqual(notion, testRange.GetMaximum().GetNotion());
+            Assert.AreEqual(maximum, testRange.GetMaximum().GetMeaning());
         }
         [TestMethod]
         public void Test_ContinuousRange_IsInRange()
