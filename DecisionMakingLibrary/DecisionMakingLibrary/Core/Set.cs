@@ -1,11 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Xml.Schema;
-
-namespace DecisionMakingLibrary.Core
+﻿namespace DecisionMakingLibrary.Core
 {
     public class Set<T>
     {
@@ -166,7 +159,9 @@ namespace DecisionMakingLibrary.Core
             result += Notion.ToString() + "\n---------\n";
             for (int i = 0; i < Items.Count; i++)
             {
+#pragma warning disable CS8602 // Разыменование вероятной пустой ссылки.
                 result += "№" + i.ToString() + " Item: " + Items[i].ToString() + "\n";
+#pragma warning restore CS8602 // Разыменование вероятной пустой ссылки.
             }
             result += "---------";
             return result;

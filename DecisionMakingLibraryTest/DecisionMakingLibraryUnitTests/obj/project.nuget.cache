@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PCiKePbY5gSMdRuQvtyiOomscTIGF0RaHJ96IaE6+/pUzVu4qtfXQdfuoFPzmcFbUKSXUJ2NFtwQkgw30HdNRQ==",
+  "dgSpecHash": "vIHYxnIgt4UC4TfL4cXAJyymQwnQOpd0l7emirRpKibdGMwDn6VtdyJEVSOHMqUaEUQP6t2kdA1Rlmp10K/bCw==",
   "success": true,
-  "projectFilePath": "D:\\GitHub\\Decision_Making_System\\DecisionMakingLibraryTest\\DecisionMakingLibraryUnitTests\\DecisionMakingLibraryUnitTests.csproj",
+  "projectFilePath": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibraryTest\\DecisionMakingLibraryUnitTests\\DecisionMakingLibraryUnitTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\masla\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\masla\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
@@ -93,13 +93,5 @@
     "C:\\Users\\masla\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\masla\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU3037",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Пакет \"Microsoft.NETCore.Platforms 1.0.1\" из источника \"C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\\": основная подпись репозитория: истек срок действия.",
-      "libraryId": "Microsoft.NETCore.Platforms"
-    }
-  ]
+  "logs": []
 }
