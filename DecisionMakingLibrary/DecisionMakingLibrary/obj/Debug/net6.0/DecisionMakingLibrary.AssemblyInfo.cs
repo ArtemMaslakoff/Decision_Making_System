@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DecisionMakingLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3cdb7b826061f2258fe9b6ade6eca0e667741142")]
 [assembly: System.Reflection.AssemblyProductAttribute("DecisionMakingLibrary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DecisionMakingLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

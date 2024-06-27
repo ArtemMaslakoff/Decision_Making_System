@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibraryTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\decision making system\\purposeformationblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\decision making system\\memoryblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\decision making system\\decisionmakingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\decision making system\\decisionmakingblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\decision making system\\conditionblock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\world\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\world\\worldrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\world\\parameterchange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\world\\action.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\core\\value.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\core\\set.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\core\\range.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\core\\notion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F588121D-ED3B-4091-B00D-6BD893EE7675}|..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj|e:\\github\\decision_making_system\\decisionmakinglibrary\\decisionmakinglibrary\\decisionmakinglibrary.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PurposeFormationBlock.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\PurposeFormationBlock.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\PurposeFormationBlock.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\PurposeFormationBlock.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\PurposeFormationBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:18:10.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MemoryBlock.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\MemoryBlock.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\MemoryBlock.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\MemoryBlock.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\MemoryBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:18:10.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DecisionMakingSystem.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\DecisionMakingSystem.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\DecisionMakingSystem.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\DecisionMakingSystem.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\DecisionMakingSystem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:18:04.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DecisionMakingBlock.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\DecisionMakingBlock.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\DecisionMakingBlock.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\DecisionMakingBlock.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\DecisionMakingBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:18:03.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConditionBlock.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\ConditionBlock.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\ConditionBlock.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\ConditionBlock.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Decision Making System\\ConditionBlock.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:18:01.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WorldRule.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\WorldRule.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\WorldRule.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\WorldRule.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\WorldRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:17:50.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "World.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\World.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\World.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\World.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\World.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:17:49.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParameterChange.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\ParameterChange.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\ParameterChange.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\ParameterChange.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\ParameterChange.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:17:47.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Action.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\Action.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\Action.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\Action.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\World\\Action.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:17:37.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Value.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Value.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Value.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Value.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Value.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:17:18.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Set.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Set.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Set.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Set.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Set.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:17:14.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Range.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Range.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Range.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Range.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Range.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:17:10.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Notion.cs",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Notion.cs",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Notion.cs",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Notion.cs",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\Core\\Notion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T08:16:59.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DecisionMakingLibrary",
+              "DocumentMoniker": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj",
+              "RelativeDocumentMoniker": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj",
+              "ToolTip": "E:\\GitHub\\Decision_Making_System\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj",
+              "RelativeToolTip": "..\\DecisionMakingLibrary\\DecisionMakingLibrary\\DecisionMakingLibrary.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-20T08:16:57.044Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
